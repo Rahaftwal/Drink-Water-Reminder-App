@@ -82,11 +82,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Version**: 1.0.0
 - **Date**: 2025
 
-## Acknowledgments 🙏
-
-- Flutter team for the amazing framework
-- All contributors and supporters
-
 ---
 
 Made with ❤️ by Rahaf AL-Twal
