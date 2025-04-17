@@ -13,8 +13,7 @@ A beautiful and intuitive Flutter application that helps you stay hydrated by tr
 - 📅 Daily progress reset
 
 ## Screenshots 📸
-
-[Add screenshots here]
+![Drink-Water-Reminder-App](https://github.com/user-attachments/assets/4ebcfbb7-6477-4a23-99f5-c1f101f385d0)
 
 ## Getting Started 🚀
 
